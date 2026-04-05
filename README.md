@@ -18,3 +18,5 @@ it same like '$ bite 0xFF'.
 My IDEA for the next update :
 1. support '^' for easy write hexadecimal code.
 2. make simple VM (Virtual Machine) for support universal CPU architecture.
+
+Note : for the first time i make, i just support Linux environment
