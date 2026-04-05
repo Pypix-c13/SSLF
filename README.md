@@ -19,4 +19,6 @@ My IDEA for the next update :
 1. support '^' for easy write hexadecimal code.
 2. make simple VM (Virtual Machine) for support universal CPU architecture.
 
+use # for comment
+
 Note : for the first time i make, i just support Linux environment
